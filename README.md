@@ -1,8 +1,3 @@
-Yeah 😭 that was **way too much for this project**. Let's keep the README simple and student-level.
-
-Delete what you pasted and use this instead:
-
-````markdown
 # Food Order Management
 
 A Java-based Food Order Management application developed using Maven and JUnit 5.
